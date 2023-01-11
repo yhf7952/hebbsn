@@ -19,5 +19,5 @@ Contents
 .. toctree::
 
    about
-   usage
-   api
+   product
+   quickstart
