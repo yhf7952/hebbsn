@@ -7,6 +7,9 @@
 --------
 
 .. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: 了解河北区块链平台
 
    about
    product
@@ -25,6 +28,9 @@
    sdk
 
 .. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: 附录
 
    qa
 

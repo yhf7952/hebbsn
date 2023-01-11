@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '河北省区块链服务网络'
+copyright = 'sino'
+author = 'yhf'
 
 release = '0.1'
 version = '0.1.0'
