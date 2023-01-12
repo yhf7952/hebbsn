@@ -7,16 +7,14 @@
 --------
 
 .. toctree::
-   :hidden:
    :maxdepth: 1
-   :caption: 了解河北区块链平台
+   :caption: 了解河北区块链服务网络
 
    about
    product
    quickstart
 
 .. toctree::
-   :hidden:
    :maxdepth: 1
    :caption: 操作手册
 
@@ -28,7 +26,6 @@
    sdk
 
 .. toctree::
-   :hidden:
    :maxdepth: 1
    :caption: 附录
 
