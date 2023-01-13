@@ -22,6 +22,7 @@
    service
    shop
    sdk
+   release
 
 .. toctree::
    :maxdepth: 1
